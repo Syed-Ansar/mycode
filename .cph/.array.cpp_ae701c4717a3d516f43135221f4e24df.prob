@@ -1,0 +1,1 @@
+{"name":"Local: array","url":"/Users/syedansar/Desktop/codecpp/array.cpp","tests":[{"id":1616574858524,"input":"5\n1 3 5 7 9\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/syedansar/Desktop/codecpp/array.cpp","group":"local","local":true}

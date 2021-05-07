@@ -1,0 +1,1 @@
+{"name":"Local: reverse","url":"/Users/syedansar/Desktop/codecpp/reverse.cpp","tests":[{"id":1616654870954,"input":"5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/syedansar/Desktop/codecpp/reverse.cpp","group":"local","local":true}

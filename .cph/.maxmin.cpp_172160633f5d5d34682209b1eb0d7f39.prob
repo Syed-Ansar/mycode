@@ -1,0 +1,1 @@
+{"name":"Local: maxmin","url":"/Users/syedansar/Desktop/codecpp/maxmin.cpp","tests":[{"id":1616653809534,"input":"5\n5 4 3 2 1","output":""},{"id":1616653830890,"input":"5\n5 4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/syedansar/Desktop/codecpp/maxmin.cpp","group":"local","local":true}
